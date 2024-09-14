@@ -1,2 +1,2 @@
-# acc34
-python
+s=input().split()
+print(" ".join(s[::-1]))
